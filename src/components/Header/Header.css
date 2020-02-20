@@ -1,0 +1,7 @@
+#header-div{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 17vh;
+    background-color: rgb(0, 162, 255);
+}
